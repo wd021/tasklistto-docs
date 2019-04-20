@@ -1,7 +1,7 @@
 ![TaskList logo](https://s3.amazonaws.com/tasklistguru/tasklist.png)
 
 <h5>
-TaskList is available on multiple platforms. Below you will find the links to help you navigate the app on each platform. If you still have questions or need help, contact us at support@limestat.com.
+TaskList is available on multiple platforms. Below you will find the links to help you navigate TaskList on each platform. If you still have questions or need help, contact us at support@limestat.com.
 </h5>
 
 ## TaskList Help
