@@ -6,6 +6,6 @@ TaskList is available on multiple platforms. Below you will find the links to he
 
 ## TaskList Help
 
-Slack - For help usings TaskList For Slack, **[click here](https://docs.tasklistforslack.com/)**.
-Microsoft Teams - For help usings TaskList For MS Teams, **[click here](https://docs.tasklistforteams.com/)**.
+Slack - For help usings TaskList For Slack, **[click here](https://docs.tasklistforslack.com/)**.<br />
+Microsoft Teams - For help usings TaskList For MS Teams, **[click here](https://docs.tasklistforteams.com/)**.<br />
 Facebook Messenger - For help usings TaskList For Messenger, **[click here](https://docs.tasklistforfb.com/)**.
